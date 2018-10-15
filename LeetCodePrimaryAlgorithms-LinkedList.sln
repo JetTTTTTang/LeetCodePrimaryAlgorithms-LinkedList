@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNode", "DeleteNode\DeleteNode.csproj", "{787A97AA-B5A4-42F9-9307-962936822B0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthFromEnd", "RemoveNthFromEnd\RemoveNthFromEnd.csproj", "{D030E426-9641-42F2-BB36-0BD3CF36163A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{787A97AA-B5A4-42F9-9307-962936822B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{787A97AA-B5A4-42F9-9307-962936822B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{787A97AA-B5A4-42F9-9307-962936822B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D030E426-9641-42F2-BB36-0BD3CF36163A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D030E426-9641-42F2-BB36-0BD3CF36163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D030E426-9641-42F2-BB36-0BD3CF36163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D030E426-9641-42F2-BB36-0BD3CF36163A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
