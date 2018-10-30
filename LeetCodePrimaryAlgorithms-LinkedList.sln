@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthFromEnd", "RemoveN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLink", "ReverseLink\ReverseLink.csproj", "{4A9EC1A5-1B3D-466C-84F0-D44AE8C241D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{9174C3D0-AFC8-44AB-A650-9A9CCBF1AC42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4A9EC1A5-1B3D-466C-84F0-D44AE8C241D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9EC1A5-1B3D-466C-84F0-D44AE8C241D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9EC1A5-1B3D-466C-84F0-D44AE8C241D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9174C3D0-AFC8-44AB-A650-9A9CCBF1AC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9174C3D0-AFC8-44AB-A650-9A9CCBF1AC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9174C3D0-AFC8-44AB-A650-9A9CCBF1AC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9174C3D0-AFC8-44AB-A650-9A9CCBF1AC42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
