@@ -39,12 +39,10 @@ namespace IsPalindrome
         static void Main(string[] args)
         {
             ListNode test1 = new ListNode(1);
-            ListNode test2 = new ListNode(2);
-            ListNode test3 = new ListNode(2);
-            ListNode test4 = new ListNode(1);
+            ListNode test2 = new ListNode(0);
+            ListNode test3 = new ListNode(1);
             test1.next = test2;
             test2.next = test3;
-            test3.next = test4;
 
             Solution solution = new Solution();
             System.Console.WriteLine(solution.IsPalindrome(test1));
@@ -63,7 +61,7 @@ namespace IsPalindrome
     {
         public bool IsPalindrome(ListNode head)
         {
-            if (head.next == null)
+            if (head == null || head.next == null)
             {
                 return true;
             }
@@ -76,6 +74,7 @@ namespace IsPalindrome
             {
                 if (fastNode.next == null)
                 {
+                    slowNode = slowNode.next;
                     nums.Pop();
                     break;
                 }
