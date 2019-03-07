@@ -1,2 +1,2 @@
 # LeetCodePrimaryAlgorithms-LinkedList
-Some answers to the LeetCode question.Onle Linked List.
+Some answers to the LeetCode question.Only Linked List.
