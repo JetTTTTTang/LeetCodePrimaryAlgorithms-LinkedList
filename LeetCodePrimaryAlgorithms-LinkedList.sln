@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{0B2C8990-799C-4F38-A1C6-3B7B1A3399E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleLink", "CycleLink\CycleLink.csproj", "{76187B65-3E3F-4BAC-942A-CFC13F3148F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0B2C8990-799C-4F38-A1C6-3B7B1A3399E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2C8990-799C-4F38-A1C6-3B7B1A3399E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2C8990-799C-4F38-A1C6-3B7B1A3399E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76187B65-3E3F-4BAC-942A-CFC13F3148F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76187B65-3E3F-4BAC-942A-CFC13F3148F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76187B65-3E3F-4BAC-942A-CFC13F3148F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76187B65-3E3F-4BAC-942A-CFC13F3148F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
